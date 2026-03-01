@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#0077B6"/>
+  <!-- Human figure / physiotherapy cross symbol -->
+  <!-- Cross (medical) -->
+  <rect x="27" y="14" width="10" height="36" rx="3" fill="white"/>
+  <rect x="14" y="27" width="36" height="10" rx="3" fill="white"/>
+  <!-- Small healing dot -->
+  <circle cx="32" cy="32" r="5" fill="#00B4D8"/>
+</svg>
